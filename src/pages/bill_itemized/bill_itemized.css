@@ -1,0 +1,89 @@
+.bill-date a{
+    text-decoration: none;
+    color: #fff;
+}
+.bg_box {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.tipModel {
+    width: 2rem;
+    height: 1rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -1rem;
+    margin-top: -0.5rem;
+    background: #fff;
+    opacity: 0.6;
+    color: #000;
+}
+.confrim {
+    padding: 0.02rem 0.3rem;
+}
+.bill-date{
+    width: 100%;
+    display: flex;
+    //justify-content: space-between;
+    color: #fff;
+    padding-top:.16rem;
+}
+.bill-date .bill-date-left {
+    display: flex;
+    justify-content: flex-end;
+}
+.bill-date .bill-date-middle {
+    margin: 0 10px;
+}
+.bill-date .bill-date-right {
+    display: flex;
+    justify-content: flex-start;
+}
+.bill-date>div{
+    //flex: 1;
+    //justify-content: flex-end;
+}
+.caldener-img{
+    width: 16%;
+    height: .16rem;
+    position: relative;
+    top:.016rem;
+}
+.bill-trade-title{
+    margin-top: .16rem;
+    font-size: .128rem;
+}
+.bill-trade-sum{
+    font-size: .32rem;
+    font-weight: bold;
+}
+.wrap-bill-detail{
+    margin-top: .16rem;
+    border-bottom: 1px solid #e1e2e3;
+}
+.bill-right-img{
+    width: 4%;
+    height: .096rem;
+}
+.bill-mechine-img{
+    width: 4%;
+    height: .096rem;
+}
+.bill-detail-flex{
+    padding: .128rem;
+    display: flex;
+}
+.wrap-bill-detail li{border-top: 1px solid #e1e2e3;}
+.bill-detail-flex{display: flex;}
+.none{display: none;}
+.bill-index-right{
+    width: 14%;
+    height: .096rem;
+}
+.bill-detail-full{
+    flex: 1;
+}
+.bill-width{
+    width: 96%;
+}

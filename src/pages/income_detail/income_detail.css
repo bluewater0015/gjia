@@ -1,0 +1,63 @@
+.income-title{
+    padding-top: .32rem;
+}
+.wrap-income{
+    display: flex;
+    padding: .16rem;
+}
+.process_line{
+    width: .032rem;
+    height: .64rem;
+    background: #ffce00;
+    margin: 0 auto;
+}
+.process_line_refund{
+    height: .88rem;
+    width: .032rem;
+    background: #ffce00;
+    margin: 0 auto;
+}
+.process_dot{
+    width: .08rem;
+    height: .08rem;
+    border-radius: .08rem;
+    background: #ffce00;
+    margin: 0 auto;
+}
+.wrap_process{
+    width: .08rem;
+    margin-left: .16rem;
+    margin-top: .2rem;
+}
+.wrap-income-detail{
+    height: .48rem;
+    padding: 0;
+    margin-bottom: .235rem;
+}
+.wrap-income-detail-fund{
+    margin-bottom: .24rem;
+}
+.income-top{
+    margin-top: .16rem;
+}
+.income-detail-bg{
+    display: flex;
+    align-items: center;
+    height: .48rem;
+    padding:0 .16rem;
+}
+.income-detail-title{
+    flex: 1;
+}
+.refund-male{
+    padding:0 .16rem;
+}
+.refund-male>div{
+    border-top: 1px solid #e1e2e3;
+    height: .288rem;
+    line-height: .288rem;
+}
+.no-info{
+    text-align: center;
+    margin-top: 2rem;
+}
